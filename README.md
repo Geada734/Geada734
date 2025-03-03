@@ -1,1 +1,1 @@
-Hi! I'm Francisco Geada Rodríguez from Mexico. I love coding, both as a job and as a hobby and have been working in the industry for 6 years now as a full stack developer. In this repository you will find the things I develop on my own time (mostly web apps, and Python packages).
+Hi! I'm Francisco Geada Rodríguez from Mexico. I love coding, both as a job and as a hobby and have been working in the industry for 7 years now as a full stack developer. In this repository you will find the things I develop on my own time (mostly web apps, and Python packages).
